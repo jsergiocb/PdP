@@ -1,1 +1,1 @@
-let teste[] 
+let aux 
